@@ -1,3 +1,5 @@
+[![Build Status](https://openfinancecore.visualstudio.com/Azure%20Pipeline/_apis/build/status/thuneby.pipelines-dotnet-core?branchName=master)](https://openfinancecore.visualstudio.com/Azure%20Pipeline/_build/latest?definitionId=15&branchName=master)
+
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
